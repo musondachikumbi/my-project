@@ -46,5 +46,13 @@ img {
   height: auto;
 }
 body{
-  background-color: hsl(212, 37%, 71%);
+  background-color: hsl(157, 59%, 58%);
+}
+a{
+  text-decoration: none;
+  color: hsl(240, 43%, 13%);
+}
+ul{
+  list-style-type: square;
+  color:rgb(0, 0, 0)
 }
