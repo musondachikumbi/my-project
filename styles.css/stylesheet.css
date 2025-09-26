@@ -1,0 +1,50 @@
+.city,
+#main {
+    font-family: Arial, sans-serif;
+    color: hsl(0, 0%, 99%);
+    background-color: lch(0% 0 0);
+    padding: 20px;
+    border-radius: 5px;
+}
+.busy,
+#zeno {
+    font-family: 'Courier New', Courier, monospace;
+    color: hsl(60, 100%, 2%);
+    background-color: oklab(56.718% -0.12217 0.05144 / 0.336);
+    padding: 20px;
+    border-radius: 5px;
+}
+#yo {
+    font-family: 'Times New Roman', Times, serif;
+    color: hwb(120 98% 1%);
+    background-color: oklch(21.707% 0.12466 265.949 / 0.938);
+    padding: 20px;
+    border-radius: 50px;
+    position: center;
+}  
+#yi{
+    font-family: 'Georgia', serif;
+    color: hwb(0 3% 3%);
+    background-color: oklch(21.707% 0.012466 265.949 / 0.938);
+    padding: 0px;
+    border-radius: 5px;
+}
+.box {
+background-color: transparent;
+padding: 20px;
+}
+footer {
+    font-family: 'Verdana', sans-serif;
+    color: hsl(240, 100%, 20%);
+    background-color: oklab(37.633% -0.01605 0.0321 / 0.5);
+    padding: 10px;
+    border-radius: 5px;
+}
+img {
+  float: top;
+  width: 300px;
+  height: auto;
+}
+body{
+  background-color: hsl(212, 37%, 71%);
+}
